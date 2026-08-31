@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0610-triangle-judgement](https://github.com/muskangupta01113/DSA/tree/main/0610-triangle-judgement/) | Easy |
 | [1280-students-and-examinations](https://github.com/muskangupta01113/DSA/tree/main/1280-students-and-examinations/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/muskangupta01113/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
