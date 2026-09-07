@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/muskangupta01113/DSA/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0610-triangle-judgement](https://github.com/muskangupta01113/DSA/tree/main/0610-triangle-judgement/) | Easy |
+| [0620-not-boring-movies](https://github.com/muskangupta01113/DSA/tree/main/0620-not-boring-movies/) | Easy |
 | [1280-students-and-examinations](https://github.com/muskangupta01113/DSA/tree/main/1280-students-and-examinations/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/muskangupta01113/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
