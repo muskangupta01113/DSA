@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0620-not-boring-movies](https://github.com/muskangupta01113/DSA/tree/main/0620-not-boring-movies/) | Easy |
 | [1280-students-and-examinations](https://github.com/muskangupta01113/DSA/tree/main/1280-students-and-examinations/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/muskangupta01113/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/muskangupta01113/DSA/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
