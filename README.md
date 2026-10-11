@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/muskangupta01113/DSA/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/muskangupta01113/DSA/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0610-triangle-judgement](https://github.com/muskangupta01113/DSA/tree/main/0610-triangle-judgement/) | Easy |
+| [0619-biggest-single-number](https://github.com/muskangupta01113/DSA/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/muskangupta01113/DSA/tree/main/0620-not-boring-movies/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/muskangupta01113/DSA/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1280-students-and-examinations](https://github.com/muskangupta01113/DSA/tree/main/1280-students-and-examinations/) | Easy |
