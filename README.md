@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0610-triangle-judgement](https://github.com/muskangupta01113/DSA/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/muskangupta01113/DSA/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/muskangupta01113/DSA/tree/main/0620-not-boring-movies/) | Easy |
+| [1070-product-sales-analysis-iii](https://github.com/muskangupta01113/DSA/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/muskangupta01113/DSA/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1251-average-selling-price](https://github.com/muskangupta01113/DSA/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/muskangupta01113/DSA/tree/main/1280-students-and-examinations/) | Easy |
