@@ -80,10 +80,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/muskangupta01113/DSA/tree/main/0100-same-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/muskangupta01113/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/muskangupta01113/DSA/tree/main/0100-same-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/muskangupta01113/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/muskangupta01113/DSA/tree/main/0100-same-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/muskangupta01113/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +103,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/muskangupta01113/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/muskangupta01113/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
