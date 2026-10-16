@@ -11,12 +11,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/muskangupta01113/DSA/tree/main/0015-3sum/) | Medium |
 | [0134-gas-station](https://github.com/muskangupta01113/DSA/tree/main/0134-gas-station/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/muskangupta01113/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/muskangupta01113/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/muskangupta01113/DSA/tree/main/0001-two-sum/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/muskangupta01113/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/muskangupta01113/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/muskangupta01113/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,10 +101,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/muskangupta01113/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/muskangupta01113/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/muskangupta01113/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/muskangupta01113/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
