@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/muskangupta01113/DSA/tree/main/0015-3sum/) | Medium |
 | [0134-gas-station](https://github.com/muskangupta01113/DSA/tree/main/0134-gas-station/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/muskangupta01113/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/muskangupta01113/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/muskangupta01113/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/muskangupta01113/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/muskangupta01113/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/muskangupta01113/DSA/tree/main/0015-3sum/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/muskangupta01113/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/muskangupta01113/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/muskangupta01113/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/muskangupta01113/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
