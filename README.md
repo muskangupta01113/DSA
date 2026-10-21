@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/muskangupta01113/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/muskangupta01113/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/muskangupta01113/DSA/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
