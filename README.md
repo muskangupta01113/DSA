@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/muskangupta01113/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/muskangupta01113/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/muskangupta01113/DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/muskangupta01113/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/muskangupta01113/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/muskangupta01113/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/muskangupta01113/DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/muskangupta01113/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/muskangupta01113/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/muskangupta01113/DSA/tree/main/2409-count-days-spent-together/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/muskangupta01113/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/muskangupta01113/DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
