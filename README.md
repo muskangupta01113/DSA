@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/muskangupta01113/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/muskangupta01113/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/muskangupta01113/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/muskangupta01113/DSA/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/muskangupta01113/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/muskangupta01113/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/muskangupta01113/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/muskangupta01113/DSA/tree/main/0001-two-sum/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/muskangupta01113/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/muskangupta01113/DSA/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/muskangupta01113/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/muskangupta01113/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/muskangupta01113/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/muskangupta01113/DSA/tree/main/0015-3sum/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/muskangupta01113/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/muskangupta01113/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/muskangupta01113/DSA/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/muskangupta01113/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/muskangupta01113/DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Greedy
@@ -233,4 +236,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/muskangupta01113/DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2747-count-zero-request-servers](https://github.com/muskangupta01113/DSA/tree/main/2747-count-zero-request-servers/) | Medium |
 <!---LeetCode Topics End-->
