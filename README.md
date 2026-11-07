@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/muskangupta01113/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/muskangupta01113/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/muskangupta01113/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/muskangupta01113/DSA/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/muskangupta01113/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/muskangupta01113/DSA/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/muskangupta01113/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1882-process-tasks-using-servers](https://github.com/muskangupta01113/DSA/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/muskangupta01113/DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
