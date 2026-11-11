@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/muskangupta01113/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0134-gas-station](https://github.com/muskangupta01113/DSA/tree/main/0134-gas-station/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/muskangupta01113/DSA/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/muskangupta01113/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/muskangupta01113/DSA/tree/main/2409-count-days-spent-together/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/muskangupta01113/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/muskangupta01113/DSA/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/muskangupta01113/DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
