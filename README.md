@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2747-count-zero-request-servers](https://github.com/muskangupta01113/DSA/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/muskangupta01113/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/muskangupta01113/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/muskangupta01113/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/muskangupta01113/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/muskangupta01113/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/muskangupta01113/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
