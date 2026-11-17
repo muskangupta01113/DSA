@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/muskangupta01113/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/muskangupta01113/DSA/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/muskangupta01113/DSA/tree/main/2409-count-days-spent-together/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/muskangupta01113/DSA/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/muskangupta01113/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/muskangupta01113/DSA/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/muskangupta01113/DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/muskangupta01113/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/muskangupta01113/DSA/tree/main/0015-3sum/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/muskangupta01113/DSA/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/muskangupta01113/DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/muskangupta01113/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/muskangupta01113/DSA/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/muskangupta01113/DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/muskangupta01113/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Union-Find
