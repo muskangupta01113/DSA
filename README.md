@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3934-smallest-unique-subarray](https://github.com/muskangupta01113/DSA/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/muskangupta01113/DSA/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/muskangupta01113/DSA/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/muskangupta01113/DSA/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/muskangupta01113/DSA/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/muskangupta01113/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/muskangupta01113/DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/muskangupta01113/DSA/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2567-minimum-score-by-changing-two-elements](https://github.com/muskangupta01113/DSA/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/muskangupta01113/DSA/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/muskangupta01113/DSA/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/muskangupta01113/DSA/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/muskangupta01113/DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/muskangupta01113/DSA/tree/main/1882-process-tasks-using-servers/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/muskangupta01113/DSA/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/muskangupta01113/DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
